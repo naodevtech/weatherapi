@@ -1,9 +1,9 @@
-# Weatherapi ⚡️
+<h1>Weatherapi ⚡️</h1>
 
-## Projet HTML / CSS / JS(VANILLAJS) & Fetch()
+<h2>Projet HTML / CSS / JS(VANILLAJS) & Fetch()</h2>
 
-### Netflify : https://naoweatherapi.netlify.app
+<h2>Netflify : https://naoweatherapi.netlify.app</h2> 
 
-### Mobile Version 📲
+<h3>Mobile Version 📲</h3>
 
-![MobileVersion](https://github.com/naodevtech/weatherapi/blob/master/assets/images/mockup.png)
+<img src='https://github.com/naodevtech/weatherapi/blob/master/assets/images/mockup.png' width='600' height='600' />
