@@ -1,6 +1,6 @@
 # Weatherapi ⚡️
 
-## Projet HTML / CSS / JS(DOM) & Fetch()
+## Projet HTML / CSS / JS(VANILLAJS) & Fetch()
 
 ### Netflify : https://naoweatherapi.netlify.app
 
