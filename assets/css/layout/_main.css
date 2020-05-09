@@ -3,7 +3,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-    padding: 2em;
+    padding: 3em;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -12,7 +12,7 @@
 
 #box{
     /* background-color: green; */
-    height: 70%;
+    height: 62%;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -22,7 +22,7 @@
 
 #box::after{
     content: '';
-    height: 60%;
+    height: 70%;
     width: 80%;
     display: flex;
     justify-content: flex-start;
