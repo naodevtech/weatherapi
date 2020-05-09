@@ -1,0 +1,10 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    transition-duration: 0.5s;
+}
+
+body{
+    background-color: #000000;
+    margin: 0;
+}
