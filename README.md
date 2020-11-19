@@ -1,6 +1,6 @@
 <h1>Weatherapi ⚡️</h1>
 
-<h2>Projet HTML / CSS / JS(VANILLAJS) & Fetch()</h2>
+<h2>Projet HTML / CSS / JS) & Fetch()</h2>
 
 <h3>Netflify : https://naoweatherapi.netlify.app</h3> 
 
